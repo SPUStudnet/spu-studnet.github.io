@@ -38,20 +38,6 @@
     "Desc": "This is a system specification document I wrote for my CSC3150 class. <br><br> It specifies the details of an application to optmize meals and walk chefs through recipes.",
     "GitHubRepo": "https://github.com/SPUStudnet/OptimizerSpecification",
     "MainImage": "P2Main.png",
-    "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
-  },
-  "Project3": {
-    "Title": "Interesting Project 3",
-    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
-    "GitHubRepo": "",
-    "MainImage": "P3Main.png",
-    "DetailImages": []
-  },
-  "Project4": {
-    "Title": "",
-    "Desc": "",
-    "GitHubRepo": "",
-    "MainImage": "",
-    "DetailImages": []
+    "DetailImages": ["P2Detail1.png","P2Detail2.png"]
   }
 }
