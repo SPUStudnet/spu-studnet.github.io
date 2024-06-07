@@ -40,16 +40,18 @@
     "MainImage": "P2Main.png",
     "DetailImages": ["P2Detail1.png","P2Detail2.png"]
   },
-    "Project3": {
-    "Title": "N/A",
-    "Desc": "Project not added. Sorry.",
-    "MainImage": "NotHere.png",
+  "Project3": {
+    "Title": "",
+    "Desc": "",
+    "GitHubRepo": "",
+    "MainImage": "",
     "DetailImages": []
   },
     "Project4": {
-    "Title": "N/A",
-    "Desc": "Project not added. Sorry.",
-    "MainImage": "NotHere.png",
+    "Title": "",
+    "Desc": "",
+    "GitHubRepo": "",
+    "MainImage": "",
     "DetailImages": []
   }
 }
