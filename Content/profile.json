@@ -21,21 +21,21 @@
   "EducationText": "Associates degree in Computer science",
   "Employment": "Employment: Provided upon interview request",
   "Role": "Role: Provided upon interview request",
-  "EmploymentText": "Use this to add some narrative to your employment section",
+  "EmploymentText": "Description of employment: Provided upon interview request",
   "Skills": ["C", "C++", "C#", " JavaScript", " Node", " CSS"," HTML", "Python", "Java"],
   "SkillsText": "I've been doing off-and-on CS projects for about five years now. Projects available for review upon further contact.",
   "Resume": ""
 },
 "Project1": {
     "Title": "System Proposal",
-    "Desc": "This is a system proposal I wrote for my CSC3150 class.<br><br> It proposes an application to optmize meals and walk chefs through recipes.",
+    "Desc": "This is a system proposal I wrote for my CSC3150 class.<br><br> It proposes an application that I wish to build to optmize meals and walk chefs through recipes. It's main goal is to help chefs take notes while walking them through recipes, and help them to notice patterns. The proposal includes a broad overview of the applicaiton and its features.",
     "GitHubRepo": "https://github.com/SPUStudnet/OptimizerProposal",
     "MainImage": "P1Main.png",
     "DetailImages": []
   },
   "Project2": {
     "Title": "System Specification document",
-    "Desc": "This is a system specification document I wrote for my CSC3150 class. <br><br> It specifies the details of an application to optmize meals and walk chefs through recipes.",
+    "Desc": "This is a system specification document I wrote for my CSC3150 class. <br><br> It specifies the details of an application to optmize meals and walk chefs through recipes. This is a much more detailed view of the functionality and map of this application, and contains detailed user interface documents.",
     "GitHubRepo": "https://github.com/SPUStudnet/OptimizerSpecification",
     "MainImage": "P2Main.png",
     "DetailImages": ["P2Detail1.png","P2Detail2.png"]
