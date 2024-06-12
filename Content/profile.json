@@ -37,7 +37,7 @@
     "Desc": "This is a system specification document I wrote for my CSC3150 class. <br><br> It specifies the details of an application to optmize meals and walk chefs through recipes. This is a much more detailed view of the functionality and map of this application, and contains detailed user interface documents.",
     "GitHubRepo": "https://github.com/SPUStudnet/OptimizerSpecification",
     "MainImage": "P2Main.png",
-    "DetailImages": ["P2Detail1.png","P2Detail2.png"]
+    "DetailImages": ["P2Detail1.jpg","P2Detail2.jpg"]
   },
   "Project3": {
     "Title": "",
