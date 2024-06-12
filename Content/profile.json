@@ -21,7 +21,7 @@
   "Employment": "Employment: Provided upon interview request",
   "Role": "Role: Provided upon interview request",
   "EmploymentText": "Description of employment: Provided upon interview request",
-  "Skills": ["C", "C++", "C#", " JavaScript", " Node", " CSS"," HTML", "Python", "Java"],
+  "Skills": ["C", " C++", " C#", " JavaScript", " Node", " CSS", " HTML", " Python", " Java"],
   "SkillsText": "I've been doing off-and-on CS projects for about five years now. Projects available for review upon further contact.",
   "Resume": ""
 
