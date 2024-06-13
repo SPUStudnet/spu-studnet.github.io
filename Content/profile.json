@@ -1,10 +1,10 @@
 {
 "About": {
-  "Name": "SPU-Studnet",
+  "Name": "Kyler Veenstra",
   "Currently": "Computer Science Student",
   "Headshot": "student-portrait.png",
   "Thumbnail": "student-logo.webp",
-  "AboutText": "Hello. I am SPUStudnet. I'm a student at SPU, and do CS projects. I will get involved in just about tertiary to computers."
+  "AboutText": "Hello. I am Kyler veenstra. I'm a student at SPU, and do CS projects. I am interested in everything related to computers."
 },
 "Contact": {
   "EMail": "veenstrak@spu.edu",
@@ -35,7 +35,7 @@
   },
   "Project2": {
     "Title": "System Specification document",
-    "Desc": "This is a system specification document I wrote for my CSC3150 class. <br><br> It specifies the details of an application to optmize meals and walk chefs through recipes. This is a much more detailed view of the functionality and map of this application, and contains detailed user interface documents.",
+    "Desc": "This is a system specification document I wrote for my CSC3150 class. <br><br> It specifies the details of an application to optimize meals and walk chefs through recipes. This document serves as a much more detailed view of the functionality of this application. It also contains detailed user interface documents.",
     "GitHubRepo": "https://github.com/SPUStudnet/OptimizerSpecification",
     "MainImage": "P2Main.png",
     "DetailImages": []
