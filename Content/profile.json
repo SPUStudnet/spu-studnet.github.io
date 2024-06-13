@@ -4,7 +4,7 @@
   "Currently": "Computer Science Student",
   "Headshot": "student-portrait.png",
   "Thumbnail": "student-logo.webp",
-  "AboutText": "Hello. I am Kyler Veenstra. I'm a student at SPU, and do CS projects, and I am interested in anything related to computers."
+  "AboutText": "Hello. My name is Kyler Veenstra. I'm a student at SPU who does assorted CS projects. I am interested in anything related to computers and computer science."
 },
 "Contact": {
   "EMail": "veenstrak@spu.edu",
@@ -28,7 +28,7 @@
 },
 "Project1": {
     "Title": "System Proposal",
-    "Desc": "This is a system proposal I wrote for my \"CSC3150 - Systems Design class.\"<br><br> It proposes an application that I wish to build to optmize meals and walk chefs through recipes. Its main goal is to help chefs take notes while walking them through recipes, and help them to notice beneficial patterns when recipe results vary. The proposal includes a broad overview of the application and its features.",
+    "Desc": "This is a system proposal I wrote for my \"CSC3150 - Systems Design class.\"<br><br> It proposes an application that I wish to build to optmize meals and walk chefs through recipes. Its primary goal is to help chefs take notes while walking them through recipes, and help them to notice beneficial patterns when recipe results vary. The proposal includes a broad overview of the application and its features.",
     "GitHubRepo": "https://github.com/SPUStudnet/OptimizerProposal",
     "MainImage": "P1Main.png",
     "DetailImages": []
