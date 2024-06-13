@@ -28,14 +28,14 @@
 },
 "Project1": {
     "Title": "System Proposal",
-    "Desc": "This is a system proposal I wrote for my \"CSC3150 - Systems Design class.\"<br><br> It proposes an application that I wish to build to optmize meals and walk chefs through recipes. Its primary goal is to help chefs take notes while walking them through recipes, and help them to notice beneficial patterns when recipe results vary. The proposal includes a broad overview of the application and its features.",
+    "Desc": "This is a system proposal I wrote for my \"CSC3150 - Systems Design\" class.<br><br> It proposes an application that I wish to build to optmize meals and walk chefs through recipes. Its primary goal is to help chefs take notes while walking them through recipes, and help them to notice beneficial patterns when recipe results vary. The proposal includes a broad overview of the application and its features.",
     "GitHubRepo": "https://github.com/SPUStudnet/OptimizerProposal",
     "MainImage": "P1Main.png",
     "DetailImages": []
   },
   "Project2": {
     "Title": "System Specification document",
-    "Desc": "This is a system specification document I wrote for my \"CSC3150 - Systems Design class.\"<br><br> It specifies the details of an application designed to optimize meals and walk chefs through recipes. The document contains a much more detailed view of this application and includes detailed user interface documents.",
+    "Desc": "This is a system specification document I wrote for my \"CSC3150 - Systems Design\" class.<br><br> It specifies the details of an application designed to optimize meals and walk chefs through recipes. The document contains a much more detailed view of this application and includes detailed user interface documents.",
     "GitHubRepo": "https://github.com/SPUStudnet/OptimizerSpecification",
     "MainImage": "P2Main.png",
     "DetailImages": []
